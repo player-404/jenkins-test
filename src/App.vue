@@ -9,8 +9,7 @@ import TheWelcome from "./components/TheWelcome.vue";
 
         <div class="wrapper">
             <HelloWorld msg="You did it!" />
-            <button>121212121</button>
-            32423467823647826387462876
+            <h1>jashdjkahsjdkhakjdhjka</h1>
         </div>
     </header>
 
