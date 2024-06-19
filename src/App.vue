@@ -9,7 +9,7 @@ import TheWelcome from "./components/TheWelcome.vue";
 
         <div class="wrapper">
             <HelloWorld msg="You did it!" />
-            <h1>欢迎来到我的自动化部署测试</h1>
+            <h1>欢迎来到我的自动化部署测试，当你看到这个页面，说明自动化部署已经成功！！！</h1>
         </div>
     </header>
 
